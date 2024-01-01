@@ -30,5 +30,6 @@ https://github.com/aliabidlodhi74/IOT-Project-2
 
    b. Connect Receiver esp32 board with OLED
    
-   ![image](https://github.com/aliabidlodhi74/IOT-Project-2/assets/83972129/5ca5acf9-39aa-431f-b74a-c1405e213de0)
+   ![image](https://github.com/aliabidlodhi74/IOT-Project-2/assets/83972129/eb5041a5-3c54-4226-8ad1-1899a602c64c)
+
 
