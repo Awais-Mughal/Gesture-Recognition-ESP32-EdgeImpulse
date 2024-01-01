@@ -27,4 +27,4 @@ https://github.com/aliabidlodhi74/IOT-Project-2
 2. **Hardware Setup:**
    a. **Connect transmitter esp32 board with mpu6050**
    ![image](https://github.com/aliabidlodhi74/IOT-Project-2/assets/83972129/08c7ec3c-fb3e-4739-b31b-32b653e0d787)
-
+ 
