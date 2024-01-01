@@ -21,7 +21,6 @@ This project demonstrates a wireless communication system using two Xiao BLE ESP
 
 
 ## Getting Started
-(https://github.com/aliabidlodhi74/IOT-Project-2/assets/83972129/1e8d5c50-673a-4010-9454-8295d8570ea8)
 
 1. **Clone the Repository:**
    
@@ -39,4 +38,8 @@ https://github.com/aliabidlodhi74/IOT-Project-2
 
 
 3. **Edge Impulse Setup:**
+
+   - Create Account at edge impulse
+   - To run edge impulse follow the installation tutorial on the following link
+     https://docs.edgeimpulse.com/docs/tools/edge-impulse-cli/cli-installation
 
