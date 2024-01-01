@@ -1,5 +1,5 @@
 # IOT-Project-2
-# Machine Learning Based Wirless Home Automation
+# Gesture based Wirless Home Automation
 
 This project demonstrates a wireless communication system using two Xiao BLE ESP32-C3 boards. The transmitter board is equipped with an MPU6050 accelerometer, while the receiver board features a 0.96" OLED display. The system is designed to detect movements using the MPU6050 and display corresponding signals on the OLED display and turn on and off the lights.
 
