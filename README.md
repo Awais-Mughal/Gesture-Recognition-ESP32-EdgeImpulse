@@ -60,3 +60,8 @@ https://github.com/aliabidlodhi74/IOT-Project-2
    ![image](https://github.com/aliabidlodhi74/IOT-Project-2/assets/83972129/b2af4f9a-a3fc-4d9f-9409-d729b786de34)
 
 
+   - Now click data aqcusition on the top left and capture set for model training
+   - Add atleast 15 sample models for each gesture
+  
+   - ![image](https://github.com/aliabidlodhi74/IOT-Project-2/assets/83972129/6f5dbd1c-7ad7-42b8-b7a9-0b2e90683bcf)
+
