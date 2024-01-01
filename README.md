@@ -37,5 +37,5 @@ https://github.com/aliabidlodhi74/IOT-Project-2
    
      ![image](https://github.com/aliabidlodhi74/IOT-Project-2/assets/83972129/251678a5-dd16-4be0-9a75-de70e1ba2914)
 
-
+3. **Edge Impulse Setup:**
 
