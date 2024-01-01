@@ -70,8 +70,14 @@ https://github.com/aliabidlodhi74/IOT-Project-2
    - ![image](https://github.com/aliabidlodhi74/IOT-Project-2/assets/83972129/872a8247-d665-4a39-8943-9d786b61f61a)
   
    - Now go to spectral features and generate features
+   - Then go to NN classifier and select esp eye board and tain the model
+   - Then go to deployment, select arduino ide and click on build
+   - Arduino library will be generated in this way
+   - model Library is found in this link with name trainingLibarary.zip
+    https://github.com/aliabidlodhi74/IOT-Project-2/tree/main/Firmware/Library
+
+   -Now upload firmware in the transmitter and receiver boards
   
-   - ![image](https://github.com/aliabidlodhi74/IOT-Project-2/assets/83972129/202a9866-f5b7-41d3-a009-10341fd05d6d)
 
 
   
