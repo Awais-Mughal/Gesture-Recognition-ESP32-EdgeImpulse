@@ -12,10 +12,8 @@ Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);
 // Structure example to receive data
 // Must match the sender structure
 typedef struct struct_message {
-    char a[32];
-    int b=1;
-    float c;
-    bool d;
+       int b=1;
+    
 } struct_message;
 
 struct_message myData;
