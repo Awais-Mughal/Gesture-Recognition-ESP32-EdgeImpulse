@@ -64,4 +64,16 @@ https://github.com/aliabidlodhi74/IOT-Project-2
    - Add atleast 15 sample models for each gesture
   
    - ![image](https://github.com/aliabidlodhi74/IOT-Project-2/assets/83972129/6f5dbd1c-7ad7-42b8-b7a9-0b2e90683bcf)
+  
+   - Now go to Impulse design and add spectral analysis as processing block and Neural Network Classification as learning block, keep the window size upto 1000ms and save impulse
+  
+   - ![image](https://github.com/aliabidlodhi74/IOT-Project-2/assets/83972129/872a8247-d665-4a39-8943-9d786b61f61a)
+  
+   - Now go to spectral features and generate features
+  
+   - ![image](https://github.com/aliabidlodhi74/IOT-Project-2/assets/83972129/202a9866-f5b7-41d3-a009-10341fd05d6d)
+
+
+  
+   
 
