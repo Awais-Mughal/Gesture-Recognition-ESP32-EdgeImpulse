@@ -44,7 +44,10 @@ https://github.com/aliabidlodhi74/IOT-Project-2
      https://docs.edgeimpulse.com/docs/tools/edge-impulse-cli/cli-installation
    - Upload dataForwarder.ino firmware in the transmitter board with mpu6050 connected
    - Open CMD and run this command
-      edge-impulse-data-forwarder
+     
+      **edge-impulse-data-forwarder**
+
+     
    - Provide name of 3 axis as aX, aY, aZ and name of the device as shown in the picture below
      
    ![image](https://github.com/aliabidlodhi74/IOT-Project-2/assets/83972129/41be1e86-7e96-4310-a0d6-1b9805dc751b)
