@@ -28,8 +28,9 @@ https://github.com/aliabidlodhi74/IOT-Project-2
    a. Connect transmitter esp32 board with mpu6050
    ![image](https://github.com/aliabidlodhi74/IOT-Project-2/assets/83972129/08c7ec3c-fb3e-4739-b31b-32b653e0d787)
 
-   b. Connect Receiver esp32 board with OLED
+
+   **b. Connect Receiver esp32 board with OLED**
    
-   ![image](https://github.com/aliabidlodhi74/IOT-Project-2/assets/83972129/eb5041a5-3c54-4226-8ad1-1899a602c64c)
+  ![image](https://github.com/aliabidlodhi74/IOT-Project-2/assets/83972129/53ab687a-5b83-417e-87ba-a06d47b96876)
 
 
