@@ -18,7 +18,7 @@ This project demonstrates a wireless communication system using two Xiao BLE ESP
 - [Edge Impulse](https://www.edgeimpulse.com/): Used for training the MPU6050 data.
 
 ## Getting Started
-![images](https://github.com/aliabidlodhi74/IOT-Project-2/assets/83972129/1e8d5c50-673a-4010-9454-8295d8570ea8)
+(https://github.com/aliabidlodhi74/IOT-Project-2/assets/83972129/1e8d5c50-673a-4010-9454-8295d8570ea8)
 
 1. **Clone the Repository:**
    
