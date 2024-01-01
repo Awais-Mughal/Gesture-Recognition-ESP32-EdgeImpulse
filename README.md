@@ -53,4 +53,10 @@ https://github.com/aliabidlodhi74/IOT-Project-2
    ![image](https://github.com/aliabidlodhi74/IOT-Project-2/assets/83972129/41be1e86-7e96-4310-a0d6-1b9805dc751b)
 
 
-    - 
+    - Now device is connected with edge impulse and project is created
+
+   ![image](https://github.com/aliabidlodhi74/IOT-Project-2/assets/83972129/b1eccd64-10da-407f-94d9-88747f0b67dc)
+
+   ![image](https://github.com/aliabidlodhi74/IOT-Project-2/assets/83972129/b2af4f9a-a3fc-4d9f-9409-d729b786de34)
+
+
