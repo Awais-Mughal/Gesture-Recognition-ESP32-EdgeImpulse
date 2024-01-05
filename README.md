@@ -89,6 +89,6 @@ https://github.com/aliabidlodhi74/IOT-Project-2
 https://www.youtube.com/watch?v=loA9_1b2G0Q
 
   
-## Application
+# Application
 
     The main application of this project is wireless home automation
