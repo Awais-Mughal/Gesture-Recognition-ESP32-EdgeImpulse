@@ -19,6 +19,8 @@ This project demonstrates a wireless communication system using two Xiao BLE ESP
 
 - ![image](https://github.com/aliabidlodhi74/IOT-Project-2/assets/83972129/6b46aa26-4a01-46ad-8d11-eeb2181d55a4)
 
+- ESPNOW for wireless Communication 
+
 
 ## Getting Started
 
@@ -45,7 +47,7 @@ https://github.com/aliabidlodhi74/IOT-Project-2
    - Upload dataForwarder.ino firmware in the transmitter board with mpu6050 connected
    - Open CMD and run this command
      
-      **edge-impulse-data-forwarder**
+4. **edge-impulse-data-forwarder**
 
      
    - Provide name of 3 axis as aX, aY, aZ and name of the device as shown in the picture below
@@ -73,6 +75,7 @@ https://github.com/aliabidlodhi74/IOT-Project-2
    - Then go to NN classifier and select esp eye board and tain the model
    - Then go to deployment, select arduino ide and click on build
    - Arduino library will be generated in this way
+   - Now open arduino ide go to sketch->include library->add zip file-> select downloaded library from edge impulse
    - model Library is found in this link with name trainingLibarary.zip
     https://github.com/aliabidlodhi74/IOT-Project-2/tree/main/Firmware/Library
 
@@ -80,11 +83,12 @@ https://github.com/aliabidlodhi74/IOT-Project-2
    - Perform up down and left right movements and they will be recognised by transmitter board and sent to receiver
    - The Receiveer board will display Lights are On if left right movement is identified, Lights are off if up down movement is identified
   
-4. Video Demonstration
+5. **Video Demonstration**
    - Youtube link
   
 https://www.youtube.com/watch?v=loA9_1b2G0Q
 
   
-   
+## Application
 
+    The main application of this project is wireless home automation
