@@ -80,6 +80,9 @@ https://github.com/aliabidlodhi74/IOT-Project-2
    - Perform up down and left right movements and they will be recognised by transmitter board and sent to receiver
    - The Receiveer board will display Lights are On if left right movement is identified, Lights are off if up down movement is identified
   
+4. Video Demonstration
+   - Youtube link
+  
 https://www.youtube.com/watch?v=loA9_1b2G0Q
 
   
