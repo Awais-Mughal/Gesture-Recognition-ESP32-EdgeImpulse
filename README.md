@@ -26,7 +26,7 @@ This project demonstrates a wireless communication system using two Xiao BLE ESP
 
 1. **Clone the Repository:**
    
-https://github.com/aliabidlodhi74/IOT-Project-2
+[https://github.com/Awais-Mughal/Gesture-Recognition-ESP32-EdgeImpulse]
 
 2. **Hardware Setup:**
    
