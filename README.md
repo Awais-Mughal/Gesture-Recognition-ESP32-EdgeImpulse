@@ -77,7 +77,7 @@ This project demonstrates a wireless communication system using two Xiao BLE ESP
    - Arduino library will be generated in this way
    - Now open arduino ide go to sketch->include library->add zip file-> select downloaded library from edge impulse
    - model Library is found in this link with name trainingLibarary.zip
-    https://github.com/aliabidlodhi74/IOT-Project-2/tree/main/Firmware/Library
+     https://github.com/Awais-Mughal/Gesture-Recognition-ESP32-EdgeImpulse/tree/main/Firmware/Library
 
    - Now upload firmware in the transmitter and receiver boards
    - Perform up down and left right movements and they will be recognised by transmitter board and sent to receiver
